@@ -1,7 +1,6 @@
 node_modules/
 eslint.config.js
 package-lock.json
-index.css
 package.json
 vite.config.js
 index.html
