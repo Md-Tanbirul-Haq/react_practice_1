@@ -17,3 +17,16 @@
   display: flex;
   gap: 50px;
 }
+
+.user_ {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.user {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 300px;
+}
